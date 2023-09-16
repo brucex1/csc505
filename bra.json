@@ -1,0 +1,21 @@
+{
+    "dataset_name": "bra.csv",
+    "description": "csv file containing GDP and primary enrollment data for Brazil",
+    "columns": [
+        {
+            "name": "year",
+            "data_type": "numeric",
+            "meaning": "year of the data"
+        },
+        {
+            "name": "GDP",
+            "data_type": "real",
+            "meaning": "GDP of the country"
+        },
+        {
+            "name": "Primary Enrollment",
+            "data_type": "real",
+            "meaning": "number of students enrolled in primary school"
+        }
+    ]
+}
